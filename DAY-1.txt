@@ -1,0 +1,40 @@
+Python Programming:
+
+Guido Van Rossum --- 1994
+
+version  - 1 --- 1994
+version  - 2  -- 2000
+version    3 --- 2008
+version - 3.8 -- 2019
+
+Why Python?
+Easy to develop and learn
+High Level Language ---- Understandable by human
+Machine Language -- understandable by machine 0,1
+Platform Independent 
+More number of Libraries
+It is Open Source
+Different applications like ML,AI,IOT,DataScience,
+Web applications.
+
+Python Platforms:
+
+Python Idle
+Pycharm
+Sublimetext tool
+Anaconda --- Jupyter
+Google colabs
+Different online editors
+
+
+
+
+
+
+
+
+
+
+
+
+
